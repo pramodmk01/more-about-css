@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>linkpage</title>
+	</head>
+	<body>
+		<header>
+			<h1> List of articles </h1>
+			<nav>
+				<a href="index.html">Home</a>
+				<a href="contact.html">contact</a>
+				<a href="services.html">services</a>
+			</nav>
+		</header>
+		<main>
+			<section>
+				<article>
+					<h2> Indefinite article </h2>
+					<img src="https://www.mbarendezvous.com/images/top-stories-img/bannerimage_1531314999.jpg" alt="article" height="500" width="700"> 
+					<p>Indefinite articles are used:
+                       -with countable nouns when we don't know exactly which one we are referring to. For instance, 'The teacher is talking about a ten year old boy'. 
+                       -while referring to a particular member of a group. For instance, 'John is a Catholic'. 
+                       -to say what someone is or what job they do. For instance, 'He is a teacher.'
+                       -with a singular noun to refer to all things of that kind. For instance, 'A dog is man's best friend.'</p>
+				</article>
+			</section>
+				
+			<section>
+				<article>
+						<h2>Definite Article</h2>
+						<p>There is only one definite article, 'the'. Definite article is used before a noun when we believe the listener knows exactly what we referring to
+                           -because there is only one. For instance, 'The President of India is going to visit the US soon.'
+                            -because we have already mentioned it. For instance, 'A terrorist entered the mall. The terrorist was accompanied by three other men.'
+                            We also use definite article with:
+                            -countries whose names include words like kingdom, states or republic-the United Kingdom, the Kingdom of Nepal.
+                            -mountain ranges, group of islands, rivers, seas, oceans and canals- the Himalayas, the Atlantic, the Arabian Sea.
+                            -newspapers-The Times of India
+                            -organisations-the United Nations
+                            -with superlatives-the brightest student.
+                        </p>
+				</article>
+			</section>
+
+		</main>
+		<footer>
+			<h5>footer</h5>
+		
+		</footer>
+
+
+	</body>
+</html>
